@@ -7,7 +7,7 @@ This particular configuration repository contains only well-known partition UUID
 To install, just clone it as `/opt/drivebadger/config/ignore-known` local directory on your Drive Badger drive.
 
 This way, you are able to update it in the future by a single command `/opt/drivebadger/update.sh` (it automatically runs
-`/opt/drivebadger/internal/generic/rebuild-uuid-lists.sh` after update - if you want to update this repository alone,
+`/opt/drivebadger/internal/mobile/rebuild-uuid-lists.sh` after update - if you want to update this repository alone,
 remember to run this script manually).
 
 Multiple `ignore.uuid` files are allowed - each in separate repository.

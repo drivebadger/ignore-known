@@ -2,7 +2,7 @@
 # Empty lines, and comments beginning from # are allowed in this file.
 #
 # Multiple ignore.uuid files are allowed - each in separate repository.
-# Remember to run /opt/drivebadger/internal/generic/rebuild-uuid-lists.sh
+# Remember to run /opt/drivebadger/internal/mobile/rebuild-uuid-lists.sh
 # script after each update of this repository.
 
 
